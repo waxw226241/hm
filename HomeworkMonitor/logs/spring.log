@@ -1,0 +1,5 @@
+2021-04-08 === [main] === INFO  === com.rw.hm.HomeworkMonitorApplicationTests ==== Starting HomeworkMonitorApplicationTests using Java 1.8.0_202 on DESKTOP-42ABPDU with PID 2284 (started by boy_x in E:\workspace\homeworkMonitor\HomeworkMonitor)
+2021-04-08 === [main] === INFO  === com.rw.hm.HomeworkMonitorApplicationTests ==== No active profile set, falling back to default profiles: default
+2021-04-08 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2021-04-08 === [main] === INFO  === com.rw.hm.HomeworkMonitorApplicationTests ==== Started HomeworkMonitorApplicationTests in 1.887 seconds (JVM running for 2.877)
+2021-04-08 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
